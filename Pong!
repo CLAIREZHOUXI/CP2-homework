@@ -84,6 +84,8 @@ vx = -vx;
 } else {   
 leftscore++;
 reset();
+end();
+reset();
 // game over
 }
 }
